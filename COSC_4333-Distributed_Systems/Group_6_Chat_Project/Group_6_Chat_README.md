@@ -8,8 +8,8 @@ Chat_Program
 
 Group 6
 Andrew Hoffman 
-Wesley Hargrave 
-Thien Ho
+Partner 1
+Partner 2
 ```
 # Multi-Threaded Chat Room Service
 
